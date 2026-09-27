@@ -1,0 +1,6 @@
+{
+  "name": "CampusHire – College Placement & Recruitment Management Platform",
+  "description": "Production-grade MERN stack college placement and recruitment management platform with automated eligibility engine, multi-role RBAC workflows, interview scheduling, and placement analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
